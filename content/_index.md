@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Mohammad Hasan Tariq | Portfolio
 date: 2022-10-24
 type: landing
 
